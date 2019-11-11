@@ -1,0 +1,1 @@
+dataset1 = dataset[['Pclass','Fare','Age','Sex']]

@@ -1,0 +1,1 @@
+dataset1.Sex = dataset1.Sex.apply(lambda x: 1 if x=="male" else 0)
